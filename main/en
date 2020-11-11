@@ -2,10 +2,14 @@
   <head>
     <meta charset = "utf-8">
     <title>Yellowstrawberry-main</title>
-    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
     <style>
-      
-    </tyle>
+      pt {
+        font-family: 'Nanum Gothic', sans-serif;
+        
+      }
+    </style>
   </head>
   <body>
     <pt>Yellowstrawberry</pt>
